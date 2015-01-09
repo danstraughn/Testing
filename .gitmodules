@@ -1,0 +1,6 @@
+[submodule "lib/splat"]
+	path = lib/splat
+	url = https://github.com/paulcbetts/splat.git
+[submodule "lib/ModernHttpClient"]
+	path = lib/ModernHttpClient
+	url = https://github.com/paulcbetts/ModernHttpClient.git
